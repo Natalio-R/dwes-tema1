@@ -1,0 +1,42 @@
+[
+    {
+        "pregunta": "¿Qué arquitectura se usa en el desarrollo web?",
+        "respuesta": "Cliente/servidor"
+    },
+    {
+        "pregunta": "¿Qué es Internet?",
+        "respuesta": "Internet es un sistema de ordenadores conectados a una red"
+    },
+    {
+        "pregunta": "¿A qué llamamos Web?",
+        "respuesta": "Un conjunto de ifromación alojado en Internet"
+    },
+    {
+        "pregunta": "¿Qué otros nombres recibe la Web?",
+        "respuesta": "Página electrónica, página digital o ciberpágina"
+    },
+    {
+        "pregunta": "En la arquitectura que se emplea en la Web, ¿qué actor se encarga de hacer el request?",
+        "respuesta": "El cliente"
+    },
+    {
+        "pregunta": "En la arquitectura que se emplea en la Web, ¿qué actor se encarga de hacer el response?",
+        "respuesta": "El servidor"
+    },
+    {
+        "pregunta": "¿En qué formato suelen ser las respuestas de los servidores web?",
+        "respuesta": "Protocolo HTTP"
+    },
+    {
+        "pregunta": "En la arquitectura que se emplea en la Web, ¿qué actor se encarga de hacer el response?",
+        "respuesta": "El servidor"
+    },
+    {
+        "pregunta": "¿Quién se encarga de los estándares en Internet?",
+        "respuesta": "El W3C"
+    },
+    {
+        "pregunta": "¿Quién es el encargado de los estándares en la Web?",
+        "respuesta": "El W3C"
+    }
+]
