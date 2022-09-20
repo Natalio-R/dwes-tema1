@@ -1,0 +1,42 @@
+[
+    {
+        "url": "http://www.ejemplo.com/index.html",
+        "path": "/var/www/html/index.html"
+    },
+    {
+        "url": "http://www.ejemplo.com/index.html",
+        "path": "/var/www/html/index.html"
+    },
+    {
+        "url": "http://www.ejemplo.com/paginas/index.html",
+        "path": "/var/www/html/paginas/index.html"
+    },
+    {
+        "url": "http://www.ejemplo.com/web/css/base.css",
+        "path": "/var/www/html/web/css/base.css"
+    },
+    {
+        "url": "http://www.ejemplo.com/web/img/logo/grande.jpg",
+        "path": "/var/www/html/web/img/logo/grande.jpg"
+    },
+    {
+        "url": "http://www.ejemplo.com/web/img/logo/editado/peque.jpeg",
+        "path": "/var/www/html/web/img/logo/editado/peque.jpeg"
+    },
+    {
+        "url": "http://www.ejemplo.com/a/b/c/d.html",
+        "path": "/var/www/html/a/b/c/d.html"
+    },
+    {
+        "url": "http://www.ejemplo.com/a/b/c/d.html",
+        "path": "/var/www/html/a/b/c/d.html"
+    },
+    {
+        "url": "http://www.ejemplo.com/grupos.txt",
+        "path": "/var/www/html/grupos.txt"
+    },
+    {
+        "url": "http://www.ejemplo.com/daw/videos/presentacion.webm",
+        "path": "/var/www/html/daw/vieos/presentacion.webm"
+    }
+]
